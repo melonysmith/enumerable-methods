@@ -1,1 +1,1 @@
-# enumerable-methods
+Enumerable Methods Project for The Odin Project
